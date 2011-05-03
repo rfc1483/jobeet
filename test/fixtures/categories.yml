@@ -1,0 +1,10 @@
+## YAML Template.
+JobeetCategory:
+  design:
+    name: Design
+  programming:
+    name: Programming
+  manager:
+    name: Manager
+  administrator:
+    name: Administrator
